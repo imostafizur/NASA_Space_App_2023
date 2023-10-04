@@ -1,6 +1,49 @@
 # NASA_Space_App_2023
 
-#### Reference
+## **Web based Solar Event Analyzer App using DONKI(Space Weather Database Of Notifications, Knowledge, Information) API**
+
+### Web App UI
+
+![1696419246513](image/README/1696419246513.png)
+
+This is the UI of the Web App.
+
+### Web App Analyzer Output
+
+This plot showing the Coronal mass ejection Speed over time. The red curve showing the threshold value.
+
+![1696418101853](image/README/1696418101853.png)
+
+This sowing The Type of Coronal mass ejection (CME) speed typ.
+
+![1696418179801](image/README/1696418179801.png)
+
+This is Geomagnetic Storm (GST) analyzer . here you can see kp-index.
+
+## ARIMA mathematical Model Prediction
+
+![1696418424221](image/README/1696418424221.png)
+
+## Artificial Intelligence Model
+
+![1696420485963](image/README/1696420485963.png)
+
+**ANN**
+
+![1696420508367](image/README/1696420508367.png)
+
+**CNN**
+![1696420533033](image/README/1696420533033.png)
+
+**RNN**
+
+![1696420546820](image/README/1696420546820.png)
+
+**LSTM**
+
+### System Architecture
+
+### Reference
 
 [1] NASA APIs
 
@@ -22,7 +65,7 @@
 
 [https://en.wikipedia.org/wiki/K-index#:~:text=The%20Kp%2Dindex%20is,no%20direct%20effect%20on%20propagation.](https://en.wikipedia.org/wiki/K-index#:~:text=The%20Kp%2Dindex%20is,no%20direct%20effect%20on%20propagation.)
 
-#### API Reference 
+### API Reference
 
 1.Coronal Mass Ejection (CME)
 [https://api.nasa.gov/DONKI/CME?startDate=yyyy-MM-dd&amp;endDate=yyyy-MM-dd&amp;api_key=DEMO_KEY]()
@@ -48,4 +91,4 @@
 8.Magnetopause Crossing (MPC)
 [https://api.nasa.gov/DONKI/MPC?startDate=yyyy-MM-dd&amp;endDate=yyyy-MM-dd&amp;api_key=DEMO_KEY]()
 
-#### Dataset
+### Dataset
