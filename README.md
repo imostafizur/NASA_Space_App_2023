@@ -65,6 +65,14 @@ This is Geomagnetic Storm (GST) analyzer . here you can see kp-index.
 
 [https://en.wikipedia.org/wiki/K-index#:~:text=The%20Kp%2Dindex%20is,no%20direct%20effect%20on%20propagation.](https://en.wikipedia.org/wiki/K-index#:~:text=The%20Kp%2Dindex%20is,no%20direct%20effect%20on%20propagation.)
 
+[7] ACE Real-Time Solar Wind - Space Weather Prediction Center
+
+[https://www.swpc.noaa.gov/products/ace-real-time-solar-wind]()
+
+[8] Space Weather Prediction Center
+
+[https://www.swpc.noaa.gov/]()
+
 ### API Reference
 
 1.Coronal Mass Ejection (CME)
@@ -92,3 +100,15 @@ This is Geomagnetic Storm (GST) analyzer . here you can see kp-index.
 [https://api.nasa.gov/DONKI/MPC?startDate=yyyy-MM-dd&amp;endDate=yyyy-MM-dd&amp;api_key=DEMO_KEY]()
 
 ### Dataset
+
+[1] NASA Open Data Portal
+
+[https://data.nasa.gov/]()
+
+[2]  DSCOVR Space Weather Data Portal
+
+[https://www.ngdc.noaa.gov/dscovr/portal/index.html#/]()
+
+[3] Sunspot Numbers
+
+[https://www.ngdc.noaa.gov/stp/solar/ssndata.html]()
